@@ -1,16 +1,16 @@
 {
   "name": "public-assets",
-  "description": "Instituto IPAI - Public Assets",
+  "description": "Instituto PAI - Public Assets",
   "version": "1.0.0",
   "author": "Helder Torres <helder.torres@innki.tech>",
   "keywords": [
     "public-assets",
-    "intituto-ipai"
+    "instituto-pai"
   ],
   "license": "MPL-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/instituto-ipai/public-assets.git"
+    "url": "https://github.com/instituto-pai/public-assets.git"
   },
   "scripts": {
     "build:images": "rm -rf dist/images/* && cp -R src/images/* dist/images/",
